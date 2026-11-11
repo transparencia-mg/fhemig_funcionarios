@@ -8,8 +8,8 @@ resources:
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: funcionarios-2025
-    path: data/funcionarios-2025.csv
+    name: funcionarios
+    path: data/funcionarios.csv
     profile: tabular-data-resource
     schema:
       fields:
